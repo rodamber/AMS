@@ -1,0 +1,6 @@
+metodos que o jorge quer no modelo de dominio:
+
+* impressora
+ - ligar e desligar
+ - obterEstado
+ - reabastecerToner(Toner), reabastecerPapel(quantidade, papelA3), reabastecerPapel(quantidade, papelA4)
